@@ -346,7 +346,7 @@ $$
 
 $$
 \begin{aligned}
-\varphi_e &= \exp(s_i(\phi_o)) \odot \phi_e + t_i(\phi_o) \\
+\varphi_e &= \exp(s_i(\phi_o)) \odot \phi_e + t_i(\phi_o), \\
 \varphi_o &= \phi_o
 \end{aligned}
 $$
@@ -360,7 +360,7 @@ $\odot$ は要素ごと(element-wise)の積を表すとします. $\exp(\phi_o)$
 
 $$
 \begin{aligned}
-\phi_e &= \exp(-s_i(\varphi_o)) \odot \varphi_e - t_i(\varphi_o) \\
+\phi_e &= \exp(-s_i(\varphi_o)) \odot \varphi_e - t_i(\varphi_o), \\
 \phi_o &= \varphi_o
 \end{aligned}
 $$
