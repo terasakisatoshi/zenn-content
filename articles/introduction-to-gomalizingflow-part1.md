@@ -385,7 +385,7 @@ $$
 A(x \to x^\prime) = \min\left(1, \frac{P(x^\prime)\tilde{P}(x)}{P(x)\tilde{P}(x^\prime)}\right)
 $$
 
-がなるべく 1 に近くなることを目指します. 元々は自己相関長を改善するものですがそのためには受容確率を増やすことが必要時条件となります.
+がなるべく 1 に近くなることを目指します. 元々は自己相関長を改善するものですがそのためには受容確率を増やすことが必要条件となります.
 
 損失関数は shifted KullbackLeibler (KL) divergence を採用します:
 
