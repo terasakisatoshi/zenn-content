@@ -18,7 +18,7 @@ GomalizingFlow.jl は格子上の場の理論, 特にスカラー場 $\phi^4$ �
 
 https://twitter.com/MLPhysJP/status/1560741857222467584?s=20
 
-これはプログラミング言語 Julia で書かています. 実装のベースになったのは下記のツイートで紹介されている論文です:
+これはプログラミング言語 Julia で書かれています. 実装のベースになったのは下記のツイートで紹介されている論文です:
 
 https://twitter.com/MLPhysJP/status/1554395703429906433?s=20
 
