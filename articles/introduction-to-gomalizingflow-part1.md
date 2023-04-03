@@ -440,3 +440,7 @@ $r$ は格子点数と同じ次元の標準正規分布の密度関数です. $z
 # まとめ
 
 GomalizingFlow.jl が理論上何をしているのかの解説を書きました.
+
+Part2 はこちら
+
+https://zenn.dev/terasakisatoshi/articles/introduction-to-gomalizingflow-part2
