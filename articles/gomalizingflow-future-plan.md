@@ -1,6 +1,6 @@
 ---
 title: "GomalizingFlow.jlの開発に関して"
-emoji: "🦭"
+emoji: "🌾"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Julia", "azarashi"]
 published: false
