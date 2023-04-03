@@ -3,7 +3,7 @@ title: "GomalizingFlow.jl 入門(Part2)"
 emoji: "🦭"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Julia", "azarashi"]
-published: false
+published: true
 ---
 
 # 本日は
