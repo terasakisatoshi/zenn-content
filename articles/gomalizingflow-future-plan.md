@@ -1,5 +1,5 @@
 ---
-title: "GomalizingFlow.jlの開発に関して"
+title: "GomalizingFlow.jlの開発の経緯に関して"
 emoji: "🌾"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Julia", "azarashi"]
