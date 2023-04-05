@@ -3,14 +3,16 @@ title: "GomalizingFlow.jlの開発に関して"
 emoji: "🌾"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["Julia", "azarashi"]
-published: false
+published: true
 ---
 
 # 本日は
 
-[計算物理 春の学校 ２０２３](https://hohno0223.github.io/comp_phys_spring_school2023/) に参加された皆さんお疲れ様でした. ここでは [GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl) に対する開発に至った経緯を書きます.
+[計算物理 春の学校 ２０２３](https://hohno0223.github.io/comp_phys_spring_school2023/) に参加された皆さんお疲れ様でした. ここでは [GomalizingFlow.jl](https://github.com/AtelierArith/GomalizingFlow.jl) に対する開発に至った経緯を書きます. 
 
 https://github.com/AtelierArith/GomalizingFlow.jl
+
+以下は完全にポエム(＝技術的な事柄を述べていない文章)です. Zenn では `type` として `tech`, `idea` という棲み分けをしています. この記事は `idea` という形で publish をしています.
 
 # GomalizingFlow.jl ができるまで
 
@@ -96,4 +98,5 @@ Juliaで書いたパッケージを作っていくと良いと思います．
 私自身で自分で触っておかしな部分に気づいたらバグ修正程度のメンテはします. 過度な期待しないでください. もしあなたが, この分野に興味を持ち, 十分な人的，計算資源を持っているのであればコードを解析し，リポジトリのフォークを行い独自の機能を発展していくことを期待します.
 
 GomalizingFlow.jl を管理している GitHub 組織は私個人が運営しているものであり, 国からの公的な支援を得ているわけではありません. 世の中のためを思い flow を学習するためのハードウェア, クラウド環境も含めた計算機, 費用も自費で賄ってきました. ところが昨今の社会情勢を受けて私個人の社会的な立場, 電気代, 半導体の高騰など情勢が大きく変化しました. そのため農家の支援や土地に肥料を与えない限り新しいタネを植えて畑を耕し作物を得るのは難しいと考えています.
-作物は海外から輸入することはできます. ただ，それらが必ずしも美味しいとは限らないし，輸入がストップする可能性は十分にあります. 健全な国力の発展には国内での自給率を上げることが欠かせないと考えています.
+作物は海外から輸入することはできます. ただ，それらが必ずしも美味しいとは限らないし，輸入がストップする可能性は十分にあります. 
+健全な国力の発展には国内での自給率を上げることが欠かせないと考えています.
