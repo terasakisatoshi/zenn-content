@@ -2,7 +2,7 @@
 title: "GomalizingFlow 入門(Part1-付録)"
 emoji: "🖊"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["Julia", "azarashi"]
+topics: ["azarashi"]
 published: true
 ---
 
